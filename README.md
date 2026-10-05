@@ -9,4 +9,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Karan174Pareek/Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Karan174Pareek/Java/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Karan174Pareek/Java/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Karan174Pareek/Java/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Karan174Pareek/Java/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Karan174Pareek/Java/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
